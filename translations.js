@@ -203,7 +203,7 @@ export const TRANSLATIONS = {
     applicationUpToDate: 'Le build {version} est à jour',
     assetsCount: '{count} {count|ressource|ressources}',
     applyingUpdate: 'Application du build {version}...',
-    analyzingCompositionAudio: 'Analyse audio de la composition : composition {current} sur {total}, {percent} %',
+    analyzingCompositionAudio: 'Analyse audio composition : composition {current} sur {total}, {percent} %',
     audioAnalysisCancelled: 'Analyse audio annulée',
     audioAnalysisComplete: 'Analyse audio terminée : {count} {count|composition|compositions}',
     audioAnalysisDisabled: 'Analyse audio désactivée',
