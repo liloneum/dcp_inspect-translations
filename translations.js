@@ -163,6 +163,7 @@ export const TRANSLATIONS = {
     reelDetails: 'Reel-Details',
     reelSummary: '{reels} {reels|Reel|Reels}, {duration} {duration|Frame|Frames}',
     reelsCount: '{count} {count|Reel|Reels}',
+    reelSubtitleList: 'Untertitel des Reels',
     reels: 'Reels',
     reloadUpdate: 'Update neu laden',
     referenceDetails: 'Nicht lokale Referenzen',
@@ -228,7 +229,8 @@ export const TRANSLATIONS = {
     signatureProfileCompliant: 'profilkonform',
     signatureProfileNoncompliant: 'nicht profilkonform',
     signatureSigner: 'Unterzeichner: {subject}',
-    signatureValid: 'Signatur bestätigt'
+    signatureValid: 'Signatur bestätigt',
+    smpteTimedText: 'SMPTE Timed Text'
   },
   fr: {
     assetMapCandidates: 'Candidats AssetMap',
@@ -392,6 +394,7 @@ export const TRANSLATIONS = {
     reelDetails: 'Détails de la bobine',
     reelSummary: '{reels} {reels|bobine|bobines}, {duration} {duration|image|images}',
     reelsCount: '{count} {count|bobine|bobines}',
+    reelSubtitleList: 'Sous-titres de la bobine',
     reels: 'Bobines',
     reloadUpdate: 'Recharger la mise à jour',
     referenceDetails: 'Références non locales',
@@ -457,7 +460,8 @@ export const TRANSLATIONS = {
     signatureProfileCompliant: 'conforme au profil',
     signatureProfileNoncompliant: 'non conforme au profil',
     signatureSigner: 'Signataire : {subject}',
-    signatureValid: 'Signature vérifiée'
+    signatureValid: 'Signature vérifiée',
+    smpteTimedText: 'Sous-titres SMPTE'
   },
   it: {
     assetMapCandidates: 'Candidati AssetMap',
@@ -621,6 +625,7 @@ export const TRANSLATIONS = {
     reelDetails: 'Dettagli reel',
     reelSummary: '{reels} reel, {duration} {duration|fotogramma|fotogrammi}',
     reelsCount: '{count} reel',
+    reelSubtitleList: 'Sottotitoli del reel',
     reels: 'Reel',
     reloadUpdate: 'Ricarica aggiornamento',
     referenceDetails: 'Riferimenti non locali',
@@ -686,6 +691,7 @@ export const TRANSLATIONS = {
     signatureProfileCompliant: 'conforme al profilo',
     signatureProfileNoncompliant: 'non conforme al profilo',
     signatureSigner: 'Firmatario: {subject}',
-    signatureValid: 'Firma verificata'
+    signatureValid: 'Firma verificata',
+    smpteTimedText: 'Testo temporizzato SMPTE'
   }
 };
